@@ -10,7 +10,7 @@ import javax.imageio.ImageIO;
 import javax.swing.*;
 
 public class BasicPanel extends JPanel{
-       
+       // tyson's change
        public static Coordinates coord = new Coordinates();
     // Create a constructor method
     public BasicPanel(){
