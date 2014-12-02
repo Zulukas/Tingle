@@ -1,3 +1,5 @@
+//What is this file and what does it do?  I will be sending out an email about this file, it will be deleted if no one has a reason for it to be kept
+
 import java.awt.*;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
